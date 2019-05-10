@@ -1,3 +1,7 @@
-.timer {
+.timerHid {
     display: none;
+}
+
+.timer {
+    display: block;
 }
