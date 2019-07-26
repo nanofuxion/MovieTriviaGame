@@ -5,3 +5,10 @@
 .timer {
     display: block;
 }
+
+#outPopUp {
+    position: absolute;
+    background-color: "";
+    padding: 1px;
+    z-index: 15;
+}
